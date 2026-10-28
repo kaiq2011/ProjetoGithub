@@ -4,4 +4,6 @@ Idade: 16
 Altura: 1,69.5
 Caracteristicas: Cabelo Medio e Preto, Tem piercing no Nariz, Namora e Trabalha
 Tamanho do pe: 
-Gosta de: Imitar pombos, Falar "o ultimo que eu comi morreu", Gosta de Falar "teu pai morreu" e Gosta de ar condicionado no cool
+Gosta de: Imitar pombos, Falar "o ultimo que eu comi morreu", Gosta de Falar "teu pai morreu" e Gosta de ar condicionado
+
+
